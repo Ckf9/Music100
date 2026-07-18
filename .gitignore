@@ -1,0 +1,19 @@
+# OS X
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+*.xcworkspace
+!default.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Other
+*.log
+node_modules/
+backend/node_modules/
